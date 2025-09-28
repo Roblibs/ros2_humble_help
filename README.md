@@ -1,5 +1,13 @@
 # ros2_humble_help
 A repository to take notes of tutorials references and steps
+
+# rqt graph
+plot a nodes graph
+
+```bash
+ros2 run rqt_graph rqt_graph
+```
+
 # turtlebot3 sim
 env : windows 11, WSL ubuntu 22.04, ros2 humble
 
